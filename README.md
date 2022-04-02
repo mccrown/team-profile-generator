@@ -16,7 +16,9 @@
   You can clone this repository and download Node. npm install inquirer will need to be ran in the command line.
 
   ## Usage
-  Run the following command at th root of your project and answer the prompted questions:
+  Run the following command at the root of your project and answer the prompted questions:
+  node index.js
+  
   When you run this project from the command line, you will fill out the prompts for your team so that an HTML file with the information is displayed
 
   ## Credits
